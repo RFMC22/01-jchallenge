@@ -1,0 +1,24 @@
+nav ul li a:hover{
+  border-bottom: 1px solid white;
+}
+#intro-top button:hover{
+  background: hsl(176, 68%, 64%);
+  cursor: pointer;
+}
+#form-footer button:hover{
+  background: hsl(176, 68%, 64%);
+  cursor: pointer;
+}
+#seca a:hover{
+  color: white;
+  border-bottom: 1px solid white;
+}
+.center2 li:hover{
+  font-weight: 700;
+  cursor: pointer;
+}
+.icon:hover{
+  border: 1px solid hsl(176, 68%, 64%);
+  color: hsl(176, 68%, 64%);
+  cursor: pointer;
+}
